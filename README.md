@@ -1,2 +1,4 @@
 # Cifar10-Classifier
-In this task I create a CNN model with 3 layer blocks, that each block include 2 convolution layers, 1 Pooling. 
+CIFAR-10, a dataset comprising 60,000 32x32 color images categorized into ten distinct classes, serves as a standard benchmark for image classification tasks. In this project, I will outline a comprehensive pipeline for training, validating, testing, and evaluating a Convolutional Neural Network (CNN) designed for CIFAR-10 classification. To address the challenge of overfitting, I incorporate Batch Normalization and Dropout techniques to enhance the model's robustness and performance.
+
+This pipeline guides you through the process of developing a powerful image classification model tailored for CIFAR-10, and it underlines the importance of addressing overfitting, a common issue in machine learning. With the integration of Batch Normalization and Dropout, that aim to ensure that the model generalizes well to unseen data, ultimately producing accurate and reliable results.
